@@ -6,7 +6,7 @@ function Navbar()
 {
     return(
         <div className="nav-bar">
-            <img src={logo} atr="logo" className="logo-img"></img>
+            <img src={logo} alt="logo" className="logo-img"></img>
             <p className="nav-two">ReactFacts</p>
             <p className="nav-three">React Course - Project 1</p>
         </div>
